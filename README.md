@@ -1,5 +1,4 @@
 # Backend_Traini8_Pradnya
-# Traini8 - Training Center Registry API
 
 ## Introduction
 Traini8 is a simple API that allows users to register and retrieve government-funded training centers. This project is built using Java with the Spring Boot framework.
